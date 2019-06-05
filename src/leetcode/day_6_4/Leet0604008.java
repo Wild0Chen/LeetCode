@@ -1,4 +1,4 @@
-package leet;
+package leetcode.day_6_4;
 
 /**
  * Created by jafo on 19/6/4.
